@@ -17,6 +17,10 @@ public class Credit {
             System.out.println("All not OK!");
         }
 
+        System.out.println("New commit!");
+
+
+
 
     }
 
