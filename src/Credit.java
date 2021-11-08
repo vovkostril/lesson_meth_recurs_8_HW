@@ -17,11 +17,7 @@ public class Credit {
             System.out.println("All not OK!");
         }
 
-        System.out.println("New commit!");
-
-
-
-
+        System.out.println("New test brunch!");
     }
 
     public static int input_number () {
