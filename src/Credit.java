@@ -20,8 +20,6 @@ public class Credit {
         System.out.println("New test brunch!");
 
 
-
-
     }
 
     public static int input_number () {
