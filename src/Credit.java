@@ -18,6 +18,7 @@ public class Credit {
         }
 
         System.out.println("New commit!");
+        System.out.println("New test brunch!");
 
 
 
